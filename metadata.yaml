@@ -1,0 +1,43 @@
+_repo: Blair-of-Balaclava-b-A-hero-of-the-Light-Brigade_70820
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W. H. C. (William H. C.)
+    - Groome, W.H.C.
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+creator:
+  author:
+    agent_name: Lynn, Escott
+    aliases:
+    - Lawrence, Christopher George Holman
+    - Lawrence, George Christopher Holman
+    - Spur, Jack
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '55937'
+    url: http://www.gutenberg.org/2009/agents/55937
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70820'
+language: en
+pgterms:marc905: 20220522081821lynn
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Al Haines, Chuck Greif and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bW. & R. Chambers, Limited, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crimean War, 1853-1856 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Blair of Balaclava : $b A hero of the Light Brigade'
+url: http://www.gutenberg.org/ebooks/70820
